@@ -1,0 +1,152 @@
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/appsettings.Development.json
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/appsettings.json
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente.deps.json
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente.runtimeconfig.json
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente.pdb
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Azure.Core.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Azure.Identity.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Humanizer.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.CodeDom.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.csproj.AssemblyReference.cache
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.AssemblyInfoInputs.cache
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.AssemblyInfo.cs
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.csproj.CoreCompileInputs.cache
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.MvcApplicationPartsAssemblyInfo.cs
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.MvcApplicationPartsAssemblyInfo.cache
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets/msbuild.apiCliente.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets/msbuild.build.apiCliente.props
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.apiCliente.props
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.apiCliente.props
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets.build.json
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets.development.json
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/scopedcss/bundle/apiCliente.styles.css
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/refint/apiCliente.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.pdb
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.genruntimeconfig.cache
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/ref/apiCliente.dll
+/Users/tadeocastilloaranibar/Projects/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.csproj.CopyComplete
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/appsettings.Development.json
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/appsettings.json
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente.deps.json
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente.runtimeconfig.json
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/apiCliente.pdb
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Azure.Core.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Azure.Identity.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Humanizer.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.CodeDom.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.csproj.AssemblyReference.cache
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.AssemblyInfoInputs.cache
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.AssemblyInfo.cs
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.csproj.CoreCompileInputs.cache
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.MvcApplicationPartsAssemblyInfo.cs
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.MvcApplicationPartsAssemblyInfo.cache
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets/msbuild.apiCliente.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets/msbuild.build.apiCliente.props
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.apiCliente.props
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.apiCliente.props
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets.build.json
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/staticwebassets.development.json
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/scopedcss/bundle/apiCliente.styles.css
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.csproj.CopyComplete
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/refint/apiCliente.dll
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.pdb
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/apiCliente.genruntimeconfig.cache
+/Users/tadeocastilloaranibar/Documents/TADEV SpA/tech-test/apiCliente/apiCliente/obj/Debug/net7.0/ref/apiCliente.dll
